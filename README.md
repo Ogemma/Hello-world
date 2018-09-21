@@ -1,2 +1,3 @@
 # Hello-world
-new student
+new student 
+learning Github
